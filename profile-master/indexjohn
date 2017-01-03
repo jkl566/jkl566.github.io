@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>John Kim, Chemist</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+</head>
+<body>
+  <div id="wrapper">
+    <h1>John Kim</h1>
+    <p>
+      <img src="headshot.jpg">
+    </p>
+    <h2>Student</h2>
+    <h3>Evanston, IL</h3>
+    <div>
+      <h4>Connect With Me</h4>
+      <ul>
+        <li><a href="mailto:jkim2017@kellogg.northwestern.edu">Email</a></li>
+        <li><a href="http://twitter.com/walterwhite">Twitter</a></li>
+        <li><a href="http://facebook.com/walterwhite">Facebook</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Summary</h4>
+      <p>
+        John studied at UC Berkeley, where he majored in Molecular Cell Biology. He now lives in Evanston with his family and attends Kellogg School of Management for his MBA.
+      </p>
+    </div>
+    <div>
+      <h4>Experience</h4>
+      <div>
+        <h5>Healthcare Consultant, Oliver Wyman</h5>
+        <p>A dynamic and entrepreneurial culture makes Oliver Wyman teams extraordinarily effective</p>
+      </div>
+      <div>
+        <h5>Healthcare Consulting Summer Associate, CannonDesign</h5>
+        <p>Health Advisory Services integrates solutions informed by clinical, operational, strategic, and design perspectives to drive optimal outcomes.</p>
+      </div>
+    </div>
+    <div>
+      <h4>Skills</h4>
+      <ul>
+        <li>Walking</li>
+        <li>Eating</li>
+      </ul>
+    </div>
+    <div>
+      <h4>Hobbies</h4>
+      <ul>
+        <li>Cooking</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
+<a href=http://google.com/> Google</a>
+
+<div id=”unicorns” class=”happy-things”></div>
