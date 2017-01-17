@@ -1,0 +1,119 @@
+/*.jumbotron {*/
+  /*background-color: #9020a3;*/
+/*}*/
+/*.btn-primary {*/
+  /*color: #fff;*/
+  /*background-color: red;*/
+  /*border-color: red;*/
+/*}*/
+
+body {
+  font-family: 'helvetica neue', cooper black, sans-serif;
+  font-weight: 300;
+  /*background-image: url(355444.jpg);*/
+  background-color: black;
+  background-repeat: repeat;
+}
+
+.link {
+  color: #ffffff;
+  font-size: 15px;
+}
+.phrase {
+  line-height: 10px;
+}
+
+#jumboimage {
+  background-image: url("images/korea food cropped.jpg");
+  background-size: cover;
+  /*background-size: relative;*/
+  /*opacity: 0.5;*/
+}
+#jumbosides {
+  background-image: url("images/sides2.jpg");
+  background-size: cover;
+}
+#jumboabout {
+  background-image: url("images/ancient table3.jpg");
+  background-size: cover;
+}
+
+.container {
+  color: white;
+  font-weight: bold;
+  opacity: 2.0;
+}
+h1 span{
+  position: relative;
+   color: white;
+   font-family: 'helvetica neue', cooper black, sans-serif;
+   font-weight: 300;
+   /*font: bold 24px/45px Helvetica, Sans-Serif;*/
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+}
+p span {
+   color: white;
+   font-family: 'helvetica neue', cursive, sans-serif;
+   font-weight: 300;
+   /*font: bold 24px/45px Helvetica, Sans-Serif;*/
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+}
+h3 {
+  color: blue;
+   top: 400px;
+   left: 0;
+   width: 100%;
+}
+
+img {
+   position: relative;
+   height: auto;
+   max-width: 100%;
+   object-fit: contain;
+}
+
+h2 {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+}
+h2 span {
+   color: white;
+   font: bold 24px/45px Helvetica, Sans-Serif;
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   left: 20px;
+   padding: 10px;
+}
+h2 span.spacer {
+   padding:0 5px;
+}
+#button {
+  top: 200px;
+  /*height: 400px;*/
+  /*weight: 600px;*/
+}
+
+.nav-tabs > li {
+    float:none;
+    display:inline-block;
+    zoom:1;
+}
+
+.nav-tabs {
+    text-align:center;
+}
+
+p {
+  color: white;
+  font-family: 'helvetica neue', cursive, sans-serif;
+  font-weight: 300;
+}
